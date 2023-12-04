@@ -10,6 +10,7 @@ namespace Day_3
 {
     internal class Program
     {
+        // not working
         static bool IsAdjacent(string[] row)
         {
             return true;
